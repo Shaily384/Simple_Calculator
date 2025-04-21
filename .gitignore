@@ -1,0 +1,17 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore node_modules if used later
+node_modules/
+
+# Optional: build output if converted to React
+dist/
+build/
+
+# Ignore environment variables
+.env
